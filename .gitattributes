@@ -1,0 +1,10 @@
+# CAD files, meshes and images are binary: no text diff, no line-ending
+# conversion.
+*.FCStd binary
+*.3mf   binary
+*.stl   binary
+*.step  binary
+*.stp   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary

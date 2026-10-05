@@ -1,0 +1,14 @@
+# FreeCAD backups
+*.FCBak
+*.FCStd1
+*.FCStd2
+
+# Printables listing draft (temporary)
+PRINTABLES.md
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Others
+backup/
